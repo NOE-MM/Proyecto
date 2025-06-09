@@ -1,0 +1,76 @@
+body{background-color: blue;}
+h1{text-align: center;}
+a{background-color: skyblue;
+text-align: center;
+text-decoration: none;
+padding: 5px;
+border-radius: 5px;
+border-style: outset;}
+a:hover{font-size: 25px;
+color: rgb(0, 0, 0);}
+header{text-align: center;
+background-color:aqua;
+height: 170px;}
+p{padding: 10%;
+font-family: 'Courier New', Courier, monospace;}
+img{width: 45%;
+height: 90%;
+margin: 10px;
+padding: 5%;}
+.i1{width: 57%;
+height: 100%;
+padding: 5%;
+margin: 20px;}
+.habitaciones{text-align: center;
+width:80% ;
+height: 500px;
+margin-left: 10%;}
+table{text-align: center;
+background-color: white;
+margin: 80px;
+margin-top: 20px;}
+.ilogo{height: 100px;
+width:100px;
+padding: 2px;}
+.tlogo{text-align: center;
+background-color: rgb(0, 0, 0);
+margin: 80px;
+margin-top: 20px;
+margin-left: 6%;
+padding: 10px;}
+.slogo{text-align: center;
+width:40% ;
+height: 400px;
+margin-left: 30%;}
+video{
+height: 450px;
+width: 800px;}
+.video{text-align: center;}
+/*section
+*/
+section{
+    background-color: greenyellow;
+}
+/*footer*/
+footer{background-color: yellow;
+text-align: right;}
+ul{text-align: left;}
+li{text-align: left;}
+h5{text-align: center;}
+.iu{background-color: aqua;}
+.eu{border: none;
+border-style: none;
+background-color: aqua;}
+/*restaurante*/
+.ri{height: 500px;
+width: 500px;}
+.hr{height: 30px;}
+.ec{border: none;
+border-style: none;
+background-color:greenyellow}
+/*formulario*/
+form{background-color: blueviolet;}
+/*spa*/
+.ss{text-align: center;
+margin-left: 200px;
+width: 800px;}
